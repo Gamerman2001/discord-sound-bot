@@ -1,0 +1,26 @@
+{
+  "name": "discord-sound-bot",
+  "version": "1.0.0",
+  "description": "A soundbot that will activate on commands sent from terminal or web interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gamerman2001/discord-sound-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "sound-bot"
+  ],
+  "author": "Troy Gooden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gamerman2001/discord-sound-bot/issues"
+  },
+  "homepage": "https://github.com/Gamerman2001/discord-sound-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
